@@ -36,6 +36,8 @@ KasRT adalah solusi praktis dan efektif untuk memperkuat komunikasi, transparans
 ![10](https://github.com/Febriyaninurhida123/Final_Project_kasrt/assets/90132092/773e06c7-5de8-423a-b49c-d56b688c9a67)
 ![9](https://github.com/Febriyaninurhida123/Final_Project_kasrt/assets/90132092/a4c90119-c321-4745-869b-bdae774e39a5)
 
+## Link Demo App : 
+https://youtube.com/shorts/XVsMk9d6ufs?si=MwE0E_SSM-1Af4Z5
 ## File Laporan :
 
 https://drive.google.com/drive/folders/1TFGjkOGvu5J_O7-JOLunPzIvzZd1hM3Z?usp=sharing
