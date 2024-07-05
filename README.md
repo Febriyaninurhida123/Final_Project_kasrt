@@ -40,4 +40,4 @@ KasRT adalah solusi praktis dan efektif untuk memperkuat komunikasi, transparans
 https://youtube.com/shorts/XVsMk9d6ufs?si=MwE0E_SSM-1Af4Z5
 ## File Laporan :
 
-https://drive.google.com/drive/folders/1TFGjkOGvu5J_O7-JOLunPzIvzZd1hM3Z?usp=sharing
+https://drive.google.com/drive/folders/16ykEJ60wPfC69KvFDoqAdr3iOxcdmyfe?usp=sharing
