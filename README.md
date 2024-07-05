@@ -22,6 +22,20 @@ KasRT adalah solusi praktis dan efektif untuk memperkuat komunikasi, transparans
 ### Note...!!!
 <h4>Membutuhkan minimal API level 26 (Android 8.0)</h4>
 
+## Tampilan dan Fitru
+
+![8](https://github.com/Febriyaninurhida123/Final_Project_kasrt/assets/90132092/0bdc9c80-4a3e-49d2-b199-f7460e0424cd)
+![7](https://github.com/Febriyaninurhida123/Final_Project_kasrt/assets/90132092/8529cf5f-fd59-4884-80b7-20024f64e749)
+![6](https://github.com/Febriyaninurhida123/Final_Project_kasrt/assets/90132092/91c34448-5447-4903-886c-ed8d444df604)
+![5](https://github.com/Febriyaninurhida123/Final_Project_kasrt/assets/90132092/898126fd-ae64-4414-9110-792b11c8a21c)
+![4](https://github.com/Febriyaninurhida123/Final_Project_kasrt/assets/90132092/27076a5e-9806-409f-b893-2b139a9e230c)
+![3](https://github.com/Febriyaninurhida123/Final_Project_kasrt/assets/90132092/39c8ce63-b3f4-4478-9f3e-02729e3a1195)
+![2](https://github.com/Febriyaninurhida123/Final_Project_kasrt/assets/90132092/348a5e4b-6986-4799-905c-9b07350dcb8f)
+![1](https://github.com/Febriyaninurhida123/Final_Project_kasrt/assets/90132092/2071e72b-78cc-45d8-a5b9-22fb687948da)
+![11](https://github.com/Febriyaninurhida123/Final_Project_kasrt/assets/90132092/06be3a9f-0fd8-4734-b650-9065c4a82da0)
+![10](https://github.com/Febriyaninurhida123/Final_Project_kasrt/assets/90132092/773e06c7-5de8-423a-b49c-d56b688c9a67)
+![9](https://github.com/Febriyaninurhida123/Final_Project_kasrt/assets/90132092/a4c90119-c321-4745-869b-bdae774e39a5)
+
 ## File Laporan :
 
 https://drive.google.com/drive/folders/1TFGjkOGvu5J_O7-JOLunPzIvzZd1hM3Z?usp=sharing
